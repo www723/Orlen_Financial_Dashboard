@@ -7,9 +7,11 @@
 
 Dashboard został stworzony, aby pomóc inwestorom w podjęciu świadomej decyzji inwestycyjnej poprzez zwizualizowanie danych liczbowych z Rachunku Zysków i Strat, Bilansu, Rachunku Przepływów Pieniężnych i policzonych wskaźników finansowych.
 
-### Link do dashboardu
+### Linki do dashboardu
 
 https://1drv.ms/x/c/8094c2de6520367a/EaBzLFJBbt9Dv8HpOuPwyx8B3E-04JjkRXz6q_pTJqSM_A?e=bhdrxa
+
+https://github.com/www723/Orlen_Financial_Dashboard/blob/0fac948180c1352dc865a7e9691290dfeda411b0/Orlen%20Financial%20Dashboard.xlsm
 
 ### Użyte umiejętności z Exela.
 Poniższe umiejętności z Excela zostały użyte w tym dashboardzie:
