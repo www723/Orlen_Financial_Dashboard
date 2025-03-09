@@ -13,11 +13,12 @@ Dashboard został stworzony,aby pomóc inwestorom w podjęciu świadomej decyzji
 ### Użyte umiejętności z Exela.
 Poniższe umiejętności z Excela zostały użyte w tym dashboardzie:
 
+- **💪🏻 Power Query** 
 - **👨‍💻 VBA**
 - **📉 Wykresy**
 - **🧮 Formuły i funkcje**
 - **❎ Data Validation**
-- **💪🏻 Power Query** 
+
 
 ### Dane użyte w  dashboardzie
 
@@ -33,6 +34,49 @@ Z pozyskanych danych obliczyłem:
 - **🎯 Wskaźniki finansowe**
 
 ## Budowa dashboardu
+
+### 🔍 Umiejętność:**💪🏻 Power Query**
+
+
+#### 📥 Pozyskanie danych
+
+   - Pierwsze użyłem **💪🏻 Power Query**,aby pozyskać dane ze strony https://www.biznesradar.pl/ i stworzyłem 3 zapytania
+   - 🗃️ Pierwsze z danymi RZiS.
+   - 🔧 Drugie z danymi Bilansu.
+   - 🏆 Trzecie z danymi RPP.
+
+#### 🧹 Oszczyszczanie danych
+
+- 😱 Dane zastałem w takim stanie ![obraz](https://github.com/user-attachments/assets/d164e5e8-519c-4d55-9639-77aa2199c248)
+
+- 🐾 Kroki,które uczyniłem
+
+ ![obraz](https://github.com/user-attachments/assets/0e29654b-0a73-47b7-a595-d104e9a5cdd1)
+
+Wraz z kodem
+```
+let
+    Source = Web.BrowserContents("https://www.biznesradar.pl/raporty-finansowe-rachunek-zyskow-i-strat/ORLEN"),
+    #"Pozyskanie danych ze strony" = Html.Table(Source, 
+        List.Transform({1..23}, each { "Column" & Text.From(_), "TABLE.report-table > * > TR > :nth-child(" & Text.From(_) & ")" }),
+        [RowSelector="TABLE.report-table > * > TR"]
+    ),
+    #"Zmiana typu danych" = Table.TransformColumnTypes(#"Pozyskanie danych ze strony", List.Transform(Table.ColumnNames(#"Pozyskanie danych ze strony"), each {_, type text})),
+    #"Oczyszczenie kolumn" = Table.TransformColumns(#"Zmiana typu danych",  
+        List.Transform(Table.ColumnNames(#"Zmiana typu danych"),  
+            each {_, each Text.BeforeDelimiter(_, "r/r"), type text}  
+        )  
+    ),
+    #"Usunięcie odstępów" = Table.ReplaceValue(#"Oczyszczenie kolumn"," ","",Replacer.ReplaceText,{"Column2", "Column3", "Column4", "Column5", "Column6", "Column7", "Column8", "Column9", "Column10", "Column11", "Column12", "Column13", "Column14", "Column15", "Column16", "Column17", "Column18", "Column19", "Column20", "Column21", "Column22"}),
+    #"Zmiana typu danych na walute" = Table.TransformColumnTypes(#"Usunięcie odstępów",{{"Column2", Currency.Type}, {"Column3", Currency.Type}, {"Column4", Currency.Type}, {"Column5", Currency.Type}, {"Column6", Currency.Type}, {"Column7", Currency.Type}, {"Column8", Currency.Type}, {"Column9", Currency.Type}, {"Column10", Currency.Type}, {"Column11", Currency.Type}, {"Column12", Currency.Type}, {"Column13", Currency.Type}, {"Column14", Currency.Type}, {"Column15", Currency.Type}, {"Column16", Currency.Type}, {"Column17", Currency.Type}, {"Column18", Currency.Type}, {"Column19", Currency.Type}, {"Column20", Currency.Type}, {"Column21", Currency.Type}, {"Column22", Currency.Type}}),
+    #"Transponowanie tabeli" = Table.Transpose(#"Zmiana typu danych na walute")
+in
+    #"Transponowanie tabeli"
+```
+
+- 🏁 Rezultat
+![obraz](https://github.com/user-attachments/assets/bbdb8b2a-ea69-4430-a86b-37ac629cd666)
+
 
 ### 🔍 Umiejętność:**👨‍💻 VBA**
 
@@ -194,8 +238,6 @@ End Sub
 
 ![datavalidationgif](https://github.com/user-attachments/assets/0afaea23-af39-42a3-8269-d0859ff3b2f9)
 
-
-### 🔍 Umiejętność:**💪🏻 Power Query**
 
 
 
