@@ -9,9 +9,9 @@ Dashboard został stworzony, aby pomóc inwestorom w podjęciu świadomej decyzj
 
 ### Linki do dashboardu
 
-https://1drv.ms/x/c/8094c2de6520367a/EaBzLFJBbt9Dv8HpOuPwyx8B3E-04JjkRXz6q_pTJqSM_A?e=bhdrxa
+https://1drv.ms/x/c/8094c2de6520367a/EdB6P80c_wdJnEuXZPqaMcQBqIp0IjJP0CM6RPe4ycVo-Q?e=6h5nkt
 
-https://github.com/www723/Orlen_Financial_Dashboard/blob/0fac948180c1352dc865a7e9691290dfeda411b0/Orlen%20Financial%20Dashboard.xlsm
+https://github.com/www723/Orlen_Financial_Dashboard/blob/4e5f55af78e68bd4bb48146a60f2ac1e490e5c84/Orlen%20Financial%20Dashboard.xlsm
 
 ### Użyte umiejętności z Exela.
 Poniższe umiejętności z Excela zostały użyte w tym dashboardzie:
