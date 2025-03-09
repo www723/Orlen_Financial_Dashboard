@@ -1,11 +1,11 @@
-# Orlen Dashboard
+# Orlen Dashboard Finansowy
  
 ![orlen-dash](https://github.com/user-attachments/assets/c9bdf5c6-68ce-4b1f-88e0-eafeebf58609)
 
 
 ## Wstęp
 
-Dashboard został stworzony,aby pomóc inwestorom w podjęciu świadomej decyzji inwestycyjnej poprzez zwizualizowanie danych liczbowych z Rachunku Zysków i Strat, Bilansu, Rachunku Przepływów Pieniężnych i policzonych wskaźników finansowych.
+Dashboard został stworzony, aby pomóc inwestorom w podjęciu świadomej decyzji inwestycyjnej poprzez zwizualizowanie danych liczbowych z Rachunku Zysków i Strat, Bilansu, Rachunku Przepływów Pieniężnych i policzonych wskaźników finansowych.
 
 ### Plik dashboardu
 
@@ -40,7 +40,7 @@ Z pozyskanych danych obliczyłem:
 
 #### 📥 Pozyskanie danych
 
-   - Pierwsze użyłem **💪🏻 Power Query**,aby pozyskać dane ze strony https://www.biznesradar.pl/ i stworzyłem 3 zapytania
+   - Pierwsze użyłem **💪🏻 Power Query**, aby pozyskać dane ze strony https://www.biznesradar.pl/ i stworzyłem 3 zapytania
    - 🗃️ Pierwsze z danymi RZiS.
    - 🔧 Drugie z danymi Bilansu.
    - 🏆 Trzecie z danymi RPP.
@@ -240,10 +240,6 @@ End Sub
 
 
 
-
-
-
-
-
-
 ## Podsumowanie
+
+Jako początkujący inwestor, postanowiłem stworzyć dashboard finansowy dla grupy Orlen, żeby łatwiej analizować ich wyniki finansowe. Projekt pozwolił mi lepiej zrozumieć dane z rachunku zysków i strat, bilansu oraz przepływów pieniężnych, a także obliczyć kluczowe wskaźniki finansowe. Dzięki temu mogłem w prosty sposób analizować dane, porównywać wyniki z różnych lat i podjąć bardziej świadome decyzje inwestycyjne.
