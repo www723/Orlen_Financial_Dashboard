@@ -9,7 +9,11 @@ Dashboard został stworzony, aby pomóc inwestorom w podjęciu świadomej decyzj
 
 ### Linki do dashboardu
 
+🌐**Wersja przeglądarkowa**
+
 https://1drv.ms/x/c/8094c2de6520367a/EdB6P80c_wdJnEuXZPqaMcQBqIp0IjJP0CM6RPe4ycVo-Q?e=6h5nkt
+
+📥**Wersja do pobrania**
 
 https://github.com/www723/Orlen_Financial_Dashboard/blob/4e5f55af78e68bd4bb48146a60f2ac1e490e5c84/Orlen%20Financial%20Dashboard.xlsm
 
