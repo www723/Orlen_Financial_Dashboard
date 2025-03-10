@@ -284,7 +284,11 @@ Wskaźnik rotacji zapasów w dniach informuje przez ile dni w przybliżeniu got�
 
 #### **Źródła:**
 Obrazy i informacje: chatgpt.com
+
 Informacje:
+
 https://eanaliza.pl/
+
 https://sindicator.net/
+
 https://dektra.pl/
