@@ -71,9 +71,9 @@ Wskaźnik zadłużenia netto do EBITDA mówi o zdolności firmy do spłaty zadł
 
 Należy jednak pamiętać, że interpretacja tego wskaźnika zależy od branży, w której działa firma, oraz jej specyfiki.
 
-## Wskaźniki płynności finansowej
+## 🌊 **Wskaźniki płynności finansowej**
 
-### Wskaźnik płynności bieżącej
+### 🌀 **Wskaźnik płynności bieżącej**
 
 ![obraz](https://github.com/user-attachments/assets/500e0255-6a60-4e7d-866b-f525f534eb71)
 
@@ -94,7 +94,7 @@ Wskaźnik pozwala określić, w jakim stopniu przedsiębiorstwo jest w stanie po
 - utrzymywanie się wartości wskaźnika na poziomie znacznie powyżej 2 interpretujemy jako nadpłynność (płynność przedsiębiorstwa jest zabezpieczona, ale będzie skutkować zmniejszoną rentownością i niższą efektywnością działania w dłuższym okresie).
 
 
-### Wskaźnik płynności szybkiej
+### 🌀 **Wskaźnik płynności szybkiej**
 
 ![obraz](https://github.com/user-attachments/assets/40e0cb70-95b1-49e2-b88f-1319de7c4870)
 
@@ -115,7 +115,7 @@ Wskaźnik określa, w jakim stopniu przedsiębiorstwo jest w stanie pokryć zobo
 - Wzrost wskaźnika płynności szybkiej przy równoczesnym wzroście cyklu rotacji należności może oznaczać problem ze ściągalnością należności, co pogarsza płynność. W takiej sytuacji wskazane jest uzupełnienie analizy o ocenę wskaźnika płynności gotówkowej (płynność I stopnia).
 
 
-### Wskaźnik płynności natychmiastowej
+### 🌀 **Wskaźnik płynności natychmiastowej**
 
 ![obraz](https://github.com/user-attachments/assets/05550238-856b-44a1-8f5e-c79e868edd6c)
 
@@ -130,10 +130,10 @@ Wskaźnik ten pokazuje w jakim stopniu firma jest w stanie regulować bieżące 
   - Zbyt wysoki wskaźnik (np. powyżej 0,2) może sugerować, że firma trzyma zbyt dużo gotówki, zamiast inwestować ją w rozwój i generowanie zysków.
   - Zbyt niski wskaźnik (poniżej 0,16) może świadczyć o ryzyku niewystarczającej płynności, co w skrajnych przypadkach może prowadzić do problemów z regulowaniem zobowiązań w krótkim okresie.
 
-## Wskaźniki rentowności finansowej
+## 🔑 **Wskaźniki rentowności finansowej**
 
 
-### Wskaźnik marży operacyjnej EBIT
+### 💸 **Wskaźnik marży operacyjnej EBIT**
 
 ![obraz](https://github.com/user-attachments/assets/957aac57-1800-4e09-8fbb-e2c2e608a4ff)
 
@@ -149,7 +149,7 @@ Wskaźnik marży operacyjnej EBIT mierzy, jaka część przychodów ze sprzedaż
 
 
 
-### Wskaźnik ROA(Rentowności aktywów)
+### 💸 **Wskaźnik ROA(Rentowności aktywów)**
 
 ![obraz](https://github.com/user-attachments/assets/cdf4c27f-ff2a-48a3-9a4d-73d2e413eb67)
 
@@ -170,7 +170,7 @@ UWAGA! Powyższa interpretacja ma zastosowanie tylko wówczas, gdy ROE, ROA i RO
 
 
 
-### Wskaźnik ROE(Rentowność kapitału własnego)
+### 💸 **Wskaźnik ROE(Rentowność kapitału własnego)**
 
 ![obraz](https://github.com/user-attachments/assets/a5b9c581-9ada-4029-903b-06b395478e14)
 
@@ -191,7 +191,7 @@ Interpretacja:
 UWAGA! Powyższa interpretacja ma zastosowanie tylko wówczas, gdy ROE, ROA i ROS(Marża netto) jednocześnie są większe od 0.
   
 
-### Wskaźnik marży netto
+### 💸 **Wskaźnik marży netto(ROS)**
 
 ![obraz](https://github.com/user-attachments/assets/dade4a07-6d39-4a73-a5be-dcf92dc2bba1)
 
@@ -215,9 +215,9 @@ UWAGA! Powyższa interpretacja ma zastosowanie tylko wówczas, gdy ROE, ROA i RO
 
 
 
-## Wskaźniki sprawności finansowej
+## 🤸🏼‍♂️ **Wskaźniki sprawności finansowej**
 
-### Wskaźnik rotacji należności (w dniach)
+### ⚡ **Wskaźnik rotacji należności (w dniach)**
 
 ![obraz](https://github.com/user-attachments/assets/ec8194e9-6531-4e45-b3dd-f4cd2ccfbed9)
 
@@ -238,7 +238,7 @@ Wskaźnik rotacji należności w dniach informuje, przez ile dni gotówka jest z
 
 
 
-### Wskaźnik rotacji zobowiązań (w dniach)
+### ⚡ **Wskaźnik rotacji zobowiązań (w dniach)**
 
 ![obraz](https://github.com/user-attachments/assets/e5fdd0de-2194-4c7f-a0a7-497b4bf29f8d)
 
@@ -262,7 +262,7 @@ Wskaźnik rotacji zobowiązań krótkoterminowych (bieżących) w dniach określ
 
 
 
-### Wskaźnik rotacji zapasów (w dniach)
+### ⚡ **Wskaźnik rotacji zapasów (w dniach)**
 
 
 ![obraz](https://github.com/user-attachments/assets/e11145a4-180c-4172-ab27-69480fe48481)
