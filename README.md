@@ -116,7 +116,7 @@ Private Sub Worksheet_Change(ByVal Target As Range)
 
     Set wszrodlo = ThisWorkbook.Sheets("Data Validation")
 
-    ' Ustaw tlo wszystkich TextBoxów na biale
+    ' Ustawienie tla wszystkich TextBoxów na biale
     txtBox1.Fill.ForeColor.RGB = RGB(255, 255, 255)
     txtBox2.Fill.ForeColor.RGB = RGB(255, 255, 255)
     txtBox3.Fill.ForeColor.RGB = RGB(255, 255, 255)
