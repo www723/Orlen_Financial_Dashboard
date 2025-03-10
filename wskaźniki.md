@@ -283,7 +283,7 @@ Wskaźnik rotacji zapasów w dniach informuje przez ile dni w przybliżeniu got�
   -  jeżeli następuje wzrost rotacji zapasów w dniach, a poziom sprzedaży jest stabilny bądź spada, sytuację taką interpretujemy dodatkowo jako możliwy sygnał o gromadzeniu zapasów nadmiernych w przedsiębiorstwie (co należy wnikliwiej zbadać).
 
 #### **Źródła:**
-Obrazy i informacje: chatgpt.com
+Obrazy i informacje: [chatgpt.com](https://chatgpt.com/)
 
 Informacje:
 
