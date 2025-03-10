@@ -19,7 +19,7 @@ https://1drv.ms/x/c/8094c2de6520367a/EdB6P80c_wdJnEuXZPqaMcQBqIp0IjJP0CM6RPe4ycV
 
 https://github.com/www723/Orlen_Financial_Dashboard/blob/4e5f55af78e68bd4bb48146a60f2ac1e490e5c84/Orlen%20Financial%20Dashboard.xlsm
 
-### Użyte umiejętności z Exela.
+### Użyte umiejętności z Exela
 Poniższe umiejętności z Excela zostały użyte w tym dashboardzie:
 
 - **💪🏻 Power Query** 
