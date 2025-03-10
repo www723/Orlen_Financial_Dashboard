@@ -282,10 +282,10 @@ Wskaźnik rotacji zapasów w dniach informuje przez ile dni w przybliżeniu got�
 - wzrost rotacji zapasów w dniach oceniamy odpowiednio negatywnie i interpretujemy jako pogorszenie efektywności w zarządzaniu zapasami przedsiębiorstwa, w rezultacie następuje bowiem wzrost zapotrzebowania na kapitał, a co za tym idzie pogorszenie płynności finansowej przedsiębiorstwa, wzrost kosztów finansowych i pogorszenie rentowności działania,
   -  jeżeli następuje wzrost rotacji zapasów w dniach, a poziom sprzedaży jest stabilny bądź spada, sytuację taką interpretujemy dodatkowo jako możliwy sygnał o gromadzeniu zapasów nadmiernych w przedsiębiorstwie (co należy wnikliwiej zbadać).
 
-#### **Źródła:**
-Obrazy i informacje: [chatgpt.com](https://chatgpt.com/)
+#### ℹ️ **Źródła:**
+🌐 Obrazy i informacje: [chatgpt.com](https://chatgpt.com/)
 
-Informacje:
+🌐 Informacje:
 
 https://eanaliza.pl/
 
