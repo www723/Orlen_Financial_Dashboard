@@ -217,7 +217,7 @@ End Sub
 ```
 =IF(ABS(XLOOKUP(rok, Z5:Z25, AA5:AA25) - AVERAGE(AA5:AA25)) <= STDEV.P(AA5:AA25), "W granicach normy", "Znaczna zmiana")
 ```
-- 🔢 **Co robi?:**Formuła sprawdza, czy wartość, którą zwróciła funkcja XLOOKUP dla wybranego roku, mieści się w granicach „normalnej” zmienności, czyli w granicach odchylenia standardowego od średniej wartości w kolumnie AA5:AA25.
+- 🔢 **Co robi?:** Formuła sprawdza, czy wartość, którą zwróciła funkcja XLOOKUP dla wybranego roku, mieści się w granicach „normalnej” zmienności, czyli w granicach odchylenia standardowego od średniej wartości w kolumnie AA5:AA25.
 - 🛠️  **Jak działa?:** XLOOKUP znajduje wartość dla wybranego roku.Oblicza różnicę między tą wartością a średnią w kolumnie.Sprawdza, czy ta różnica mieści się w granicach odchylenia standardowego.Na tej podstawie zwraca odpowiedni wynik.
 - 🎯 **Dodatkowo** Formuła używa: ```AVERAGE()```podaje średnią zakresu danych,```STDEV.P()```ukazuje odchylenie standardowe,```ABS()```zwraca wartość bezwzględną liczby
 
