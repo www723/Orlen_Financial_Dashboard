@@ -7,6 +7,8 @@
 
 Dashboard został stworzony, aby pomóc inwestorom w podjęciu świadomej decyzji inwestycyjnej poprzez zwizualizowanie danych liczbowych z Rachunku Zysków i Strat, Bilansu, Rachunku Przepływów Pieniężnych i policzonych wskaźników finansowych.
 
+**Prezentowane informacje mają charakter wyłącznie informacyjny i nie stanowią porady finansowej**
+
 ### Linki do dashboardu
 
 🌐**Wersja przeglądarkowa**
