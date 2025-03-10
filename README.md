@@ -233,7 +233,7 @@ End Sub
 
 ### 🔍 Umiejętność:**❎ Data Validation**
 
-#### 🔍 Lista do wyboru
+#### 🔍 Wybierz z listy
 
 - 🎯 Wprowadzanie danych przez użytkownika jest ograniczone do wstępnie zdefiniowanych sprawdzonych typów harmonogramów
 - 🚫 Zapobiega się wprowadzaniu nieprawidłowych lub niespójnych danych
